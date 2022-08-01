@@ -1,9 +1,6 @@
 # Flexbox-CSS
 It follows a project developed in the flexbox course of DIO.me.
 
-Follow link with video demonstration of the operation of the project.
-https://user-images.githubusercontent.com/87674883/170380716-23f331ed-94b8-4508-b442-5528b30f47fb.mp4
-
 ## To access the site, click here https://emilyjuly.github.io/Flex_turismos/
 
 
